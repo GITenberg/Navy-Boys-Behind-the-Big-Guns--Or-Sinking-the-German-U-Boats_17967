@@ -1,0 +1,33 @@
+_repo: Navy-Boys-Behind-the-Big-Guns--Or-Sinking-the-German-U-Boats_17967
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: archival
+  image_path: 17967-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davidson, Halsey
+    gutenberg_agent_id: '7727'
+    url: http://www.gutenberg.org/2009/agents/7727
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Juvenile fiction'
+- !lcc 'PZ'
+title: Navy Boys Behind the Big Guns; Or, Sinking the German U-Boats
+url: http://www.gutenberg.org/ebooks/17967
